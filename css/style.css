@@ -1,0 +1,12 @@
+div{
+    width: 150px;
+    background-color: #fea500;
+    border: 5px solid #808080;
+    height: 150px;
+}
+section{
+    width: 300px;
+    background-color:#808080;
+    color: white;
+    height: 700px;
+}
